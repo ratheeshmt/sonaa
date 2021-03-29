@@ -1,0 +1,78 @@
+{
+  "Version": "20.04",
+  "OEM": {
+    "Vendor": "LENOVO",
+    "Product": "80K6",
+    "Family": "IDEAPAD"
+  },
+  "BIOS": {
+    "Vendor": "LENOVO",
+    "Version": "C2CN19WW(V2.00)"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "4",
+    "Threads": "2",
+    "Cores": "2",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "61",
+    "Stepping": "4",
+    "Name": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "1616"
+    }
+  ],
+  "RAM": 8.1,
+  "Disks": [
+    1000.2
+  ],
+  "Partitions": [
+    30.1,
+    0.1
+  ],
+  "Screens": [
+    {
+      "Size": "344mmx193mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.00"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_IN",
+  "Timezone": "Asia/Kolkata",
+  "Install": {
+    "Media": "Ubuntu 20.04.2.0 LTS \"Focal Fossa\" - Release amd64 (20210209.1)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "resize_use_free",
+    "DownloadUpdates": false,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "31": "console_setup",
+      "45": "wireless",
+      "88": "prepare",
+      "183": "partman",
+      "221": "start_install",
+      "250": "timezone",
+      "288": "usersetup",
+      "345": "user_done",
+      "941": "done"
+    }
+  }
+}

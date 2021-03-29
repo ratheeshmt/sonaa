@@ -1,0 +1,26 @@
+[Data Source]
+DisplayName=My Tasks
+Enabled=true
+Parent=4701f9d7ea54c377cdeef51d94ff204d925eaf7a
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=redhumt@gmail.com
+CredentialName=
+IsExternal=false
+
+[Resource]
+Identity=gtasks::MTA3NTMwNjAzODA2MzAyMjgzNTg6MDow
+
+[Alarms]
+IncludeMe=false
+LastNotified=
+
+[Task List]
+BackendName=gtasks
+Color=#becedd
+Selected=true

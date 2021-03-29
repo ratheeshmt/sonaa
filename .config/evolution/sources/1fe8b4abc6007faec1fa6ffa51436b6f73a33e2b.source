@@ -1,0 +1,31 @@
+[Data Source]
+DisplayName=mtratheesh07@outlook.com
+Enabled=true
+Parent=
+
+[Authentication]
+Host=
+Method=none
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=
+CredentialName=
+IsExternal=true
+
+[Collection]
+BackendName=outlook
+CalendarEnabled=true
+ContactsEnabled=true
+Identity=110e6b8b2f25fa26
+MailEnabled=true
+AllowSourcesRename=false
+CalendarUrl=
+ContactsUrl=
+
+[GNOME Online Accounts]
+AccountId=account_1617027804_1
+CalendarUrl=
+ContactsUrl=
+Name=
+Address=mtratheesh07@outlook.com

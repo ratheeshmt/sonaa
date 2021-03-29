@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=redhumt@gmail.com
+Enabled=true
+Parent=4701f9d7ea54c377cdeef51d94ff204d925eaf7a
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=af67be6663859fafca1c954ce2e24c351686c896
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=redhumt@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

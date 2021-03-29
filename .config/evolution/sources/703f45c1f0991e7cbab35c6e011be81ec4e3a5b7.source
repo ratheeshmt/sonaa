@@ -1,0 +1,20 @@
+[Data Source]
+DisplayName=mtratheesh07@outlook.com
+Enabled=true
+Parent=1fe8b4abc6007faec1fa6ffa51436b6f73a33e2b
+
+[Authentication]
+Host=smtp-mail.outlook.com
+Method=XOAUTH2
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=mtratheesh07@outlook.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=starttls-on-standard-port
+
+[Mail Transport]
+BackendName=smtp

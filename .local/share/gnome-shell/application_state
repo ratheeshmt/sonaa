@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Evince.desktop" score="0" last-seen="1617035424"/>
+    <application id="org.gnome.Nautilus.desktop" score="4" last-seen="1617035429"/>
+    <application id="gnome-initial-setup.desktop" score="216" last-seen="1617029239"/>
+    <application id="firefox.desktop" score="108" last-seen="1617036068"/>
+    <application id="org.gnome.Terminal.desktop" score="81" last-seen="1617036004"/>
+    <application id="libreoffice-writer.desktop" score="2" last-seen="1617029304"/>
+    <application id="thunderbird.desktop" score="46" last-seen="1617035412"/>
+    <application id="org.gnome.Cheese.desktop" score="2" last-seen="1617035479"/>
+    <application id="gnome-control-center.desktop" score="19" last-seen="1617035513"/>
+    <application id="update-manager.desktop" score="0" last-seen="1617029270"/>
+    <application id="org.gnome.Totem.desktop" score="0" last-seen="1617035510"/>
+  </context>
+</application-state>

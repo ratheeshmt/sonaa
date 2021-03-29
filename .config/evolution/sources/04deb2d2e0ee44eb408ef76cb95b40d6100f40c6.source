@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=mtratheesh07@outlook.com
+Enabled=true
+Parent=1fe8b4abc6007faec1fa6ffa51436b6f73a33e2b
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=703f45c1f0991e7cbab35c6e011be81ec4e3a5b7
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=mtratheesh07@outlook.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
